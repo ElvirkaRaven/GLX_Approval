@@ -1,0 +1,883 @@
+[
+  {
+    "Visas": "Первый заместитель ГД",
+    "VisasID": "c7445823-3cb3-11e8-80dc-005056bec469",
+    "ObjectModel": {
+      "ID": "73635e78-c6fb-11f1-aa33-0050569da1d5",
+      "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+      "CollectionName": "Документы"
+    },
+    "ObjectInfo": {
+      "Company": "TEST ПАО",
+      "Department": "TEST",
+      "TurnoverItem": "Участие в конференциях, конкурсах, премиях рынка недвижимости",
+      "Partner": "TEST",
+      "Amount": "91500",
+      "Currency": "руб.",
+      "ManagerialPurpose": "TEST",
+      "PaymentPurpose": "TESTе",
+      "OverBudget": false,
+      "Status": "На согласовании",
+      "ResponsiblePerson": "TEST",
+      "Scenario": "Контроль заявок",
+      "Comment": "",
+      "Date": "13.10.2026",
+      "Number": "Г0БП-002690",
+      "AdditionalProps": [],
+      "UseInternalTables": false,
+      "BasisForecast": false,
+      "Executor": "TEST",
+      "PaymentDate": "13.10.2026",
+      "Project": "АУР",
+      "Contract": "Договор № TEST"
+    },
+    "ApplicationReestr": null,
+    "Files": [
+      {
+        "Name": "TEST",
+        "DateChanged": "2026-10-09T11:46:04",
+        "ID": "7f95fc7e-c6fb-11f1-aa33-0050569da1d5",
+        "VersionID": "7f95fc7e-c6fb-11f1-aa33-0050569da1d5",
+        "Ext": "pdf",
+        "Size": 281185
+      }
+    ]
+  },
+  {
+    "Visas": "Первый заместитель ГД",
+    "VisasID": "c7445823-3cb3-11e8-80dc-005056bec469",
+    "ObjectModel": {
+      "ID": "67a48d5e-c702-11f1-aa33-0050569da1d5",
+      "ObjectName": "бит_ЗаявкаНаЗатраты",
+      "CollectionName": "Документы"
+    },
+    "ObjectInfo": {
+      "Company": "TEST ПАО",
+      "Department": "Дирекция по правовым вопросам",
+      "TurnoverItem": "Судебные расходы",
+      "Partner": "TEST",
+      "Amount": "60000",
+      "Currency": "руб.",
+      "ManagerialPurpose": "",
+      "PaymentPurpose": "",
+      "OverBudget": false,
+      "Status": "На согласовании",
+      "ResponsiblePerson": "КTEST",
+      "Scenario": "Контроль заявок",
+      "Comment": "",
+      "Date": "13.10.2026",
+      "Number": "Г0БП-000548",
+      "AdditionalProps": [],
+      "UseInternalTables": false,
+      "BasisForecast": null,
+      "Executor": "TEST",
+      "PaymentDate": "13.10.2026",
+      "Project": "TEST",
+      "Contract": "Договор TEST"
+    },
+    "ApplicationReestr": null,
+    "Files": [
+      {
+        "Name": "Лист согласования №Г0БП-000548 от 13.10.2026",
+        "DateChanged": "2026-10-13T13:50:23",
+        "ID": "9776d197-c702-11f1-aa33-0050569da1d5",
+        "VersionID": "9776d197-c702-11f1-aa33-0050569da1d5",
+        "Ext": "pdf",
+        "Size": 67679
+      },
+      {
+        "Name": "Акт №17 от 08.10.26, АПП, сч-ф",
+        "DateChanged": "2026-10-13T11:49:58",
+        "ID": "9d72fc92-c702-11f1-aa33-0050569da1d5",
+        "VersionID": "9d72fc92-c702-11f1-aa33-0050569da1d5",
+        "Ext": "pdf",
+        "Size": 224827
+      }
+    ]
+  },
+  {
+    "Visas": "Первый заместитель ГД",
+    "VisasID": "c7445823-3cb3-11e8-80dc-005056bec469",
+    "ObjectModel": {
+      "ID": "3188b8a0-c174-11f1-aa33-0050569da1d5",
+      "ObjectName": "бит_ПроектДоговора",
+      "CollectionName": "Документы"
+    },
+    "ObjectInfo": {
+      "Company": "TEST ПАО",
+      "Department": "Блок экономики и финансов",
+      "TurnoverItem": "Обслуживание кредитов",
+      "Partner": "Публичное акционерное общество \"TEST\"",
+      "Amount": "",
+      "Currency": "руб.",
+      "ManagerialPurpose": "",
+      "PaymentPurpose": "",
+      "OverBudget": false,
+      "Status": "На согласовании",
+      "ResponsiblePerson": "TEST ",
+      "Scenario": "Контроль заявок",
+      "Comment": "дс",
+      "Date": "06.10.2026",
+      "Number": "Г0БП-000769",
+      "AdditionalProps": [],
+      "UseInternalTables": false,
+      "BasisForecast": null,
+      "Executor": "",
+      "PaymentDate": "",
+      "Project": "TEST",
+      "Contract": ""
+    },
+    "ApplicationReestr": null,
+    "Files": [
+      {
+        "Name": "Доп_ДЗУК_ПАО TEST_380F00X5E 1-ДЗД1_5",
+        "DateChanged": "2026-10-06T10:53:03",
+        "ID": "3d8bed15-c174-11f1-aa33-0050569da1d5",
+        "VersionID": "43868207-c174-11f1-aa33-0050569da1d5",
+        "Ext": "docx",
+        "Size": 68556
+      }
+    ]
+  },
+  {
+    "Visas": "Первый заместитель ГД",
+    "VisasID": "c7445823-3cb3-11e8-80dc-005056bec469",
+    "ObjectModel": {
+      "ID": "861b78b3-c1bb-11f1-aa33-0050569da1d5",
+      "ObjectName": "бит_ПроектДоговора",
+      "CollectionName": "Документы"
+    },
+    "ObjectInfo": {
+      "Company": "TEST ПАО",
+      "Department": "Блок экономики и финансов",
+      "TurnoverItem": "Обслуживание кредитов",
+      "Partner": "Публичное акционерное общество \"TEST\"",
+      "Amount": "",
+      "Currency": "руб.",
+      "ManagerialPurpose": "",
+      "PaymentPurpose": "",
+      "OverBudget": false,
+      "Status": "На согласовании",
+      "ResponsiblePerson": "TEST ",
+      "Scenario": "Контроль заявок",
+      "Comment": "дс",
+      "Date": "06.10.2026",
+      "Number": "Г0БП-000772",
+      "AdditionalProps": [],
+      "UseInternalTables": false,
+      "BasisForecast": null,
+      "Executor": "",
+      "PaymentDate": "",
+      "Project": "TEST",
+      "Contract": ""
+    },
+    "ApplicationReestr": null,
+    "Files": [
+      {
+        "Name": "Доп_ДП_TEST_380F00X5E.1-П2",
+        "DateChanged": "2026-10-06T15:34:00",
+        "ID": "89957940-c1bb-11f1-aa33-0050569da1d5",
+        "VersionID": "89957995-c1bb-11f1-aa33-0050569da1d5",
+        "Ext": "docx",
+        "Size": 48063
+      }
+    ]
+  },
+  {
+    "Visas": "Первый заместитель ГД",
+    "VisasID": "c7445823-3cb3-11e8-80dc-005056bec469",
+    "ObjectModel": {
+      "ID": "143c27f4-c627-11f1-aa33-0050569da1d5",
+      "ObjectName": "бит_ПроектДоговора",
+      "CollectionName": "Документы"
+    },
+    "ObjectInfo": {
+      "Company": "СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК TEST",
+      "Department": "Департамент маркетинга и PR",
+      "TurnoverItem": "Онлайн-реклама",
+      "Partner": "TEST ООО",
+      "Amount": "3346038,12",
+      "Currency": "руб.",
+      "ManagerialPurpose": "",
+      "PaymentPurpose": "",
+      "OverBudget": false,
+      "Status": "На согласовании",
+      "ResponsiblePerson": "TEST",
+      "Scenario": "Контроль заявок",
+      "Comment": "интернет-реклама в октябре 2026",
+      "Date": "12.10.2026",
+      "Number": "ДОБП-000778",
+      "AdditionalProps": [],
+      "UseInternalTables": false,
+      "BasisForecast": null,
+      "Executor": "",
+      "PaymentDate": "",
+      "Project": "Коммерческий Блок",
+      "Contract": ""
+    },
+    "ApplicationReestr": null,
+    "Files": [
+      {
+        "Name": "ДС_5_TEST TEST_Октябрь 2026",
+        "DateChanged": "2026-10-09T15:58:24",
+        "ID": "4a617e56-c627-11f1-aa33-0050569da1d5",
+        "VersionID": "4a617fdd-c627-11f1-aa33-0050569da1d5",
+        "Ext": "docx",
+        "Size": 23737
+      }
+    ]
+  },
+  {
+    "Visas": "Первый заместитель ГД",
+    "VisasID": "c7445823-3cb3-11e8-80dc-005056bec469",
+    "ObjectModel": {
+      "ID": "49a55d97-c6fb-11f1-aa33-0050569da1d5",
+      "ObjectName": "бит_ПроектДоговора",
+      "CollectionName": "Документы"
+    },
+    "ObjectInfo": {
+      "Company": "TEST ПАО",
+      "Department": "Департамент IT инфраструктуры",
+      "TurnoverItem": "Сопровождение ПО и лицензии",
+      "Partner": "TEST ООО",
+      "Amount": "10000",
+      "Currency": "руб.",
+      "ManagerialPurpose": "",
+      "PaymentPurpose": "",
+      "OverBudget": false,
+      "Status": "На согласовании",
+      "ResponsiblePerson": "TEST",
+      "Scenario": "Контроль заявок",
+      "Comment": "продление аккаунта в юнисендере",
+      "Date": "13.10.2026",
+      "Number": "Г0БП-000792",
+      "AdditionalProps": [],
+      "UseInternalTables": false,
+      "BasisForecast": null,
+      "Executor": "",
+      "PaymentDate": "",
+      "Project": "АУР",
+      "Contract": ""
+    },
+    "ApplicationReestr": null,
+    "Files": [
+      {
+        "Name": "bill_stamp_5fdc49a4-c798-11f1-bbd9-cec51b261648",
+        "DateChanged": "2026-10-14T06:28:05",
+        "ID": "6db911e9-c798-11f1-aa33-0050569da1d5",
+        "VersionID": "73b17950-c798-11f1-aa33-0050569da1d5",
+        "Ext": "pdf",
+        "Size": 104504
+      }
+    ]
+  },
+  {
+    "Visas": "Первый заместитель ГД",
+    "VisasID": "c7445823-3cb3-11e8-80dc-005056bec469",
+    "ObjectModel": {
+      "ID": "c483a7a8-c637-11f1-aa33-0050569da1d5",
+      "ObjectName": "бит_РеестрПлатежей",
+      "CollectionName": "Документы"
+    },
+    "ObjectInfo": {
+      "Company": "",
+      "Department": "",
+      "TurnoverItem": "",
+      "Partner": "",
+      "Amount": "",
+      "Currency": "",
+      "ManagerialPurpose": "",
+      "PaymentPurpose": "",
+      "OverBudget": false,
+      "Status": "Рабочий",
+      "ResponsiblePerson": "TEST",
+      "Scenario": "",
+      "Comment": "19.10.26 Выборка TEST",
+      "Date": "14.10.2026",
+      "Number": "00БП-002380",
+      "AdditionalProps": [],
+      "UseInternalTables": true,
+      "BasisForecast": null,
+      "Executor": "",
+      "PaymentDate": "",
+      "Project": "TEST23",
+      "Contract": ""
+    },
+    "ApplicationReestr": {
+      "ID": "c483a7a8-c637-11f1-aa33-0050569da1d5",
+      "Number": "00БП-002380",
+      "Date": "2026-10-14T00:00:00",
+      "Company": "",
+      "Comment": "19.10.26 TEST",
+      "Applications": [
+        {
+          "RowNumber": 1,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "0a4303e9-c0c4-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС БЛБП-001019 от 05.10.2026 16:52:51",
+          "Amount": "1620000",
+          "AmountPayable": "1620000",
+          "TotalSchedule": "1620000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 2,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "906527b1-c147-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС БЛБП-001023 от 06.10.2026 8:34:14",
+          "Amount": "900000",
+          "AmountPayable": "900000",
+          "TotalSchedule": "900000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 3,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "08389c50-c6e3-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС БЛБП-001039 от 13.10.2026 11:49:52",
+          "Amount": "189000",
+          "AmountPayable": "189000",
+          "TotalSchedule": "189000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 4,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "f95b4d06-c7ac-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС БЛБП-001043 от 14.10.2026 11:55:25",
+          "Amount": "72683122,09",
+          "AmountPayable": "72683122,09",
+          "TotalSchedule": "72683122,09",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 5,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "7f01578d-c7b5-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС БЛБП-001044 от 14.10.2026 12:56:16",
+          "Amount": "3026330,04",
+          "AmountPayable": "3026330,04",
+          "TotalSchedule": "3026330,04",
+          "Currency": "руб."
+        }
+      ]
+    },
+    "Files": []
+  },
+  {
+    "Visas": "Первый заместитель ГД",
+    "VisasID": "c7445823-3cb3-11e8-80dc-005056bec469",
+    "ObjectModel": {
+      "ID": "d8d67916-c6c7-11f1-aa33-0050569da1d5",
+      "ObjectName": "бит_РеестрПлатежей",
+      "CollectionName": "Документы"
+    },
+    "ObjectInfo": {
+      "Company": "",
+      "Department": "",
+      "TurnoverItem": "",
+      "Partner": "",
+      "Amount": "",
+      "Currency": "",
+      "ManagerialPurpose": "",
+      "PaymentPurpose": "",
+      "OverBudget": false,
+      "Status": "Рабочий",
+      "ResponsiblePerson": "TEST",
+      "Scenario": "",
+      "Comment": "19.10.2026 TEST23",
+      "Date": "14.10.2026",
+      "Number": "00БП-002383",
+      "AdditionalProps": [],
+      "UseInternalTables": true,
+      "BasisForecast": null,
+      "Executor": "",
+      "PaymentDate": "",
+      "Project": "TEST12",
+      "Contract": ""
+    },
+    "ApplicationReestr": {
+      "ID": "d8d67916-c6c7-11f1-aa33-0050569da1d5",
+      "Number": "00БП-002383",
+      "Date": "2026-10-14T12:00:05",
+      "Company": "",
+      "Comment": "19.10.2026 TEST",
+      "Applications": [
+        {
+          "RowNumber": 1,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "69b23cda-b014-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС СПБП-000673 от 02.10.2026 0:00:00",
+          "Amount": "20000",
+          "AmountPayable": "20000",
+          "TotalSchedule": "20000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 2,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "09c099d2-bd64-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС СПБП-000707 от 07.10.2026 0:00:00",
+          "Amount": "120000",
+          "AmountPayable": "120000",
+          "TotalSchedule": "120000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 3,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "0b9f5fb0-bda2-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС СПБП-000710 от 07.10.2026 0:00:00",
+          "Amount": "750000",
+          "AmountPayable": "750000",
+          "TotalSchedule": "750000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 4,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "427c8d85-c082-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС СПБП-000723 от 05.10.2026 9:02:01",
+          "Amount": "5850",
+          "AmountPayable": "5850",
+          "TotalSchedule": "5850",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 5,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "5c00dd4a-be67-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС СПБП-000720 от 02.10.2026 16:44:17",
+          "Amount": "131228,22",
+          "AmountPayable": "131228,22",
+          "TotalSchedule": "131228,22",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 6,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "e4d94048-c0b0-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС СПБП-000727 от 05.10.2026 14:35:50",
+          "Amount": "160599,98",
+          "AmountPayable": "160599,98",
+          "TotalSchedule": "160599,98",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 7,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "bdc6322c-c23f-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС СПБП-000732 от 07.10.2026 14:10:49",
+          "Amount": "108009,73",
+          "AmountPayable": "108009,73",
+          "TotalSchedule": "108009,73",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 8,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "9f1444c7-c612-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС СПБП-000742 от 12.10.2026 0:00:00",
+          "Amount": "8480",
+          "AmountPayable": "8480",
+          "TotalSchedule": "8480",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 9,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "c64f0550-c61b-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС СПБП-000746 от 12.10.2026 0:00:00",
+          "Amount": "3833429,28",
+          "AmountPayable": "3833429,28",
+          "TotalSchedule": "3833429,28",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 10,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "12e394bb-c264-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС СПБП-000735 от 07.10.2026 18:30:52",
+          "Amount": "87116,27",
+          "AmountPayable": "87116,27",
+          "TotalSchedule": "87116,27",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 11,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "8377e329-c313-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС СПБП-000737 от 08.10.2026 15:26:45",
+          "Amount": "300000",
+          "AmountPayable": "300000",
+          "TotalSchedule": "300000",
+          "Currency": "руб."
+        }
+      ]
+    },
+    "Files": []
+  },
+  {
+    "Visas": "Первый заместитель ГД",
+    "VisasID": "c7445823-3cb3-11e8-80dc-005056bec469",
+    "ObjectModel": {
+      "ID": "4d06feca-c791-11f1-aa33-0050569da1d5",
+      "ObjectName": "бит_РеестрПлатежей",
+      "CollectionName": "Документы"
+    },
+    "ObjectInfo": {
+      "Company": "",
+      "Department": "",
+      "TurnoverItem": "",
+      "Partner": "",
+      "Amount": "",
+      "Currency": "",
+      "ManagerialPurpose": "",
+      "PaymentPurpose": "",
+      "OverBudget": false,
+      "Status": "Рабочий",
+      "ResponsiblePerson": "TEST",
+      "Scenario": "",
+      "Comment": "ПФ TEST к 19.10.2026",
+      "Date": "14.10.2026",
+      "Number": "00БП-002389",
+      "AdditionalProps": [],
+      "UseInternalTables": true,
+      "BasisForecast": null,
+      "Executor": "",
+      "PaymentDate": "",
+      "Project": "TEST34",
+      "Contract": ""
+    },
+    "ApplicationReestr": {
+      "ID": "4d06feca-c791-11f1-aa33-0050569da1d5",
+      "Number": "00БП-002389",
+      "Date": "2026-10-14T08:37:16",
+      "Company": "",
+      "Comment": "ПФ TEST к 19.10.2026",
+      "Applications": [
+        {
+          "RowNumber": 1,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "6843900e-c0b4-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000723 от 05.10.2026 15:00:53",
+          "Amount": "122970",
+          "AmountPayable": "122970",
+          "TotalSchedule": "122970",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 2,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "96a62aa8-c223-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000731 от 07.10.2026 10:49:21",
+          "Amount": "3813",
+          "AmountPayable": "3813",
+          "TotalSchedule": "3813",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 3,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "2b028253-c233-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000732 от 07.10.2026 12:40:47",
+          "Amount": "59284,93",
+          "AmountPayable": "59284,93",
+          "TotalSchedule": "59284,93",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 4,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "fc329c31-c2ec-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000733 от 08.10.2026 10:51:03",
+          "Amount": "64344",
+          "AmountPayable": "64344",
+          "TotalSchedule": "64344",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 5,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "a3694374-c2f9-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000734 от 08.10.2026 12:21:32",
+          "Amount": "178270,5",
+          "AmountPayable": "178270,5",
+          "TotalSchedule": "178270,5",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 6,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "3e7e28dc-c3ec-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000738 от 09.10.2026 0:00:00",
+          "Amount": "1667333,33",
+          "AmountPayable": "1667333,33",
+          "TotalSchedule": "1667333,33",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 7,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "803ae6fe-c3ec-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000739 от 09.10.2026 0:00:00",
+          "Amount": "1299178,65",
+          "AmountPayable": "1299178,65",
+          "TotalSchedule": "1299178,65",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 8,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "c9022dc1-c3ec-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000740 от 09.10.2026 0:00:00",
+          "Amount": "3827188,76",
+          "AmountPayable": "3827188,76",
+          "TotalSchedule": "3827188,76",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 9,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "360c3242-c3ed-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000741 от 09.10.2026 0:00:00",
+          "Amount": "10000000",
+          "AmountPayable": "10000000",
+          "TotalSchedule": "10000000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 10,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "722e20cd-c3ed-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000742 от 09.10.2026 0:00:00",
+          "Amount": "2000000",
+          "AmountPayable": "2000000",
+          "TotalSchedule": "2000000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 11,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "b851d97a-c3de-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000736 от 12.10.2026 0:00:00",
+          "Amount": "135000",
+          "AmountPayable": "135000",
+          "TotalSchedule": "135000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 12,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "08a7d876-c3ec-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000737 от 09.10.2026 17:16:43",
+          "Amount": "109291,67",
+          "AmountPayable": "109291,67",
+          "TotalSchedule": "109291,67",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 13,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "825be9fc-c61f-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000745 от 12.10.2026 12:30:09",
+          "Amount": "10000",
+          "AmountPayable": "10000",
+          "TotalSchedule": "10000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 14,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "88ca1807-c61f-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000746 от 12.10.2026 12:30:23",
+          "Amount": "33000",
+          "AmountPayable": "33000",
+          "TotalSchedule": "33000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 15,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "e71c6087-c62a-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000747 от 12.10.2026 13:51:40",
+          "Amount": "850000",
+          "AmountPayable": "850000",
+          "TotalSchedule": "850000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 16,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "4098ad54-c630-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000748 от 12.10.2026 14:30:04",
+          "Amount": "19421,62",
+          "AmountPayable": "19421,62",
+          "TotalSchedule": "19421,62",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 17,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "d25cee7f-c630-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000749 от 12.10.2026 14:34:09",
+          "Amount": "25895,1",
+          "AmountPayable": "25895,1",
+          "TotalSchedule": "25895,1",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 18,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "6ca61694-c632-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000751 от 12.10.2026 14:45:35",
+          "Amount": "35746,14",
+          "AmountPayable": "35746,14",
+          "TotalSchedule": "35746,14",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 19,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "289e6b2c-c633-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000752 от 12.10.2026 14:50:51",
+          "Amount": "950",
+          "AmountPayable": "950",
+          "TotalSchedule": "950",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 20,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "3efc6538-c635-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000753 от 12.10.2026 15:05:42",
+          "Amount": "840",
+          "AmountPayable": "840",
+          "TotalSchedule": "840",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 21,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "930e17b0-c6a5-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000754 от 13.10.2026 4:29:47",
+          "Amount": "197615,27",
+          "AmountPayable": "197615,27",
+          "TotalSchedule": "197615,27",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 22,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "27cf59ca-c6e4-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000755 от 13.10.2026 11:57:47",
+          "Amount": "201397,73",
+          "AmountPayable": "201397,73",
+          "TotalSchedule": "201397,73",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 23,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "3020e403-c6e5-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000756 от 13.10.2026 12:05:17",
+          "Amount": "350000",
+          "AmountPayable": "350000",
+          "TotalSchedule": "350000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 24,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "fc6f4dab-a53e-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000616 от 06.10.2026 0:00:00",
+          "Amount": "210000",
+          "AmountPayable": "210000",
+          "TotalSchedule": "210000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 25,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "76029d30-a53f-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000617 от 06.10.2026 0:00:00",
+          "Amount": "847073,61",
+          "AmountPayable": "847073,61",
+          "TotalSchedule": "847073,61",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 26,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "602568f5-a540-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000618 от 06.10.2026 0:00:00",
+          "Amount": "64977,2",
+          "AmountPayable": "64977,2",
+          "TotalSchedule": "64977,2",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 27,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "b506c68b-a541-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000619 от 06.10.2026 0:00:00",
+          "Amount": "41785",
+          "AmountPayable": "41785",
+          "TotalSchedule": "41785",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 28,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "a1577285-bbe1-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000695 от 29.09.2026 11:42:04",
+          "Amount": "60000",
+          "AmountPayable": "60000",
+          "TotalSchedule": "60000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 29,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "33e6939b-bcb0-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000704 от 30.09.2026 12:20:41",
+          "Amount": "100000",
+          "AmountPayable": "100000",
+          "TotalSchedule": "100000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 30,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "9f9fa869-bcb0-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000705 от 30.09.2026 12:23:45",
+          "Amount": "430980",
+          "AmountPayable": "430980",
+          "TotalSchedule": "430980",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 31,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "c9ec576d-bc9e-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000700 от 30.09.2026 10:16:02",
+          "Amount": "7000",
+          "AmountPayable": "7000",
+          "TotalSchedule": "7000",
+          "Currency": "руб."
+        },
+        {
+          "RowNumber": 32,
+          "ObjectName": "бит_ЗаявкаНаРасходованиеСредств",
+          "ApplicationID": "57a6eb55-c211-11f1-aa33-0050569da1d5",
+          "ApplicationPresentation": "Заявка на расходование ДС ГЗБП-000730 от 07.10.2026 8:38:41",
+          "Amount": "9262218,25",
+          "AmountPayable": "9262218,25",
+          "TotalSchedule": "9262218,25",
+          "Currency": "руб."
+        }
+      ]
+    },
+    "Files": []
+  }
+]
