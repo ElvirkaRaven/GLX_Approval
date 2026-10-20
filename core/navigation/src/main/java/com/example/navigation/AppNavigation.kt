@@ -161,8 +161,6 @@ fun AppNavigation() {
                     ?.getString("documentId")
                     .orEmpty()
 
-                // Временная заглушка до подключения передачи
-                // выбранного объекта Document на экран деталей.
                 Text("Детали документа: $documentId")
             }
         }
