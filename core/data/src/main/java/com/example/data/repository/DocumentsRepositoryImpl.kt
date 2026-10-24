@@ -1,17 +1,33 @@
 package com.example.data.repository
 
+//import com.example.domain.model.Document
+//import com.example.domain.repository.DocumentsRepository
+//import com.example.data.remote.LocalDocumentsDataSource
+//import javax.inject.Inject
+//
+//class DocumentsRepositoryImpl @Inject constructor(
+//    private val localDataSource: LocalDocumentsDataSource
+//) : DocumentsRepository {
+//
+//    override suspend fun getDocuments(): Result<List<Document>> {
+//        return runCatching {
+//            localDataSource.loadDocuments()
+//        }
+//    }
+//}
+
+import com.example.data.local.DocumentsDataSource
 import com.example.domain.model.Document
 import com.example.domain.repository.DocumentsRepository
-import com.example.data.remote.LocalDocumentsDataSource
 import javax.inject.Inject
 
 class DocumentsRepositoryImpl @Inject constructor(
-    private val localDataSource: LocalDocumentsDataSource
+    private val dataSource: DocumentsDataSource
 ) : DocumentsRepository {
 
     override suspend fun getDocuments(): Result<List<Document>> {
         return runCatching {
-            localDataSource.loadDocuments()
+            dataSource.loadDocuments()
         }
     }
 }

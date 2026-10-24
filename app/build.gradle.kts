@@ -4,6 +4,7 @@ plugins {
     alias(libs.plugins.kotlin.compose)
     alias(libs.plugins.hilt)
     alias(libs.plugins.kotlin.kapt)
+    id("io.gitlab.arturbosch.detekt")
 }
 
 android {
@@ -60,4 +61,19 @@ dependencies {
     implementation(project(":feature:settings"))
     implementation(project(":core:data"))
     implementation(project(":core:domain"))
+
+    testImplementation("junit:junit:4.13.2")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.10.2")
+    testImplementation("androidx.datastore:datastore-preferences:1.1.7")
+
+    androidTestImplementation("androidx.compose.ui:ui-test-junit4")
+    debugImplementation("androidx.compose.ui:ui-test-manifest")
+}
+
+detekt {
+    toolVersion = "1.23.8"
+    config.setFrom(
+        files("$rootDir/config/detekt/detekt.yml")
+    )
+    buildUponDefaultConfig = true
 }

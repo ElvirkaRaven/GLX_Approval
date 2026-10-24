@@ -2,6 +2,7 @@ plugins {
     alias(libs.plugins.android.library)
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
+    id("io.gitlab.arturbosch.detekt")
 }
 
 android {
@@ -36,5 +37,9 @@ dependencies {
     implementation(project(":feature:settings"))
     implementation("androidx.hilt:hilt-navigation-compose:1.2.0")
     implementation(project(":core:domain"))
+
+    testImplementation("junit:junit:4.13.2")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.10.2")
+    testImplementation("androidx.datastore:datastore-preferences:1.1.7")
 
 }
